@@ -1,5 +1,14 @@
 # 💫 About Me:
-Im a student a aspiring full stack dev
+🎓 3rd Year Information Technology student passionate about building modern and practical digital solutions.  
+💻 Aspiring Full Stack Developer focused on web development, system development, and software engineering.  
+
+🚀 Built and developed:
+- Computer Shop Reservation System with QR-based reservations and payment features
+- Portfolio websites and SaaS-style landing pages
+- Android and web applications for academic and business projects
+- Inventory and management systems using PHP, HTML, CSS, JavaScript, and MySQL
+- Network configuration and subnetting projects using Cisco Packet Tracer
+- AI and smart agriculture innovation concepts for ASEAN-focused proposals
 
 
 ## 🌐 Socials:
