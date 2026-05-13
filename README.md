@@ -98,18 +98,14 @@
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
 
-<img src="![](https://github-readme-stats.vercel.app/api?username=ToffDarell&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true)" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=ToffDarell&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToffDarell&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="165" />
-
 <br/>
-
 <img src="https://streak-stats.demolab.com/?user=ToffDarell&theme=tokyonight&hide_border=true" />
 
 </div>
-
 ---
 
 ## 🏆 GitHub Trophies
