@@ -10,7 +10,7 @@
 
 ## 💫 About Me
 
-🎓 3rd Year **Information Technology** student passionate about building modern and practical digital solutions.  
+🎓 4th Year **Information Technology** student passionate about building modern and practical digital solutions.  
 💻 Aspiring **Full Stack Developer** focused on web development, system development, and software engineering.  
 🤖 Currently building **SafeRide AI** (helmet detection with YOLOv11) and **PayMonitor** (Laravel SaaS lending system).
 
