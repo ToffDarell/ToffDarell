@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Toff%20Darell%20Vergara&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=3rd+Year+IT+Student+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;AI+%26+Computer+Vision+Builder+%F0%9F%A4%96;Laravel+%7C+React+%7C+Django+%7C+YOLO+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=4th+Year+IT+Student+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;AI+%26+Computer+Vision+Builder+%F0%9F%A4%96;Laravel+%7C+React+%7C+Django+%7C+YOLO+%F0%9F%9A%80" />
 
 </div>
 
